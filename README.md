@@ -6,7 +6,7 @@
 
 
 - 👋 Hi, I’m Caleb
-- 🧑🏻‍💻 I program iOS apps using Xcode and Swift! I started about a year ago and I am completely obsessed by it.  No greater feeling than solving some problem with code
+- 🧑🏻‍💻 I program iOS apps using Xcode and Swift! I started about a year and a half ago and I am completely obsessed by it.  No greater feeling than solving some problem with code
 - 
 - 
 - 📫 You can reach me via email at: chodgesdev@gmail.com
