@@ -1,8 +1,5 @@
 
-![kLubDevsLogoMid](https://user-images.githubusercontent.com/95727406/157125893-c0733cf4-d9bc-4555-ab70-5446311874e4.png)
-
-
-
+![CartoonProfilePic](https://user-images.githubusercontent.com/95727406/224563521-908d4ac8-738b-4a55-89c6-f3a3081f83c4.png)
 
 
 - 👋 Hi, I’m Caleb
@@ -16,6 +13,14 @@ https://apps.apple.com/us/app/abiding-above/id1629222793
 - 
 - 
 - 📫 You can reach me via email at: chodgesdev@gmail.com
+
+Tech Stack: 
+
+- Swift
+- UIKit
+- HTML
+- CSS
+- Javascript
 
 <!---
 Chodges86/Chodges86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
