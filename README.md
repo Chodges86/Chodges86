@@ -8,7 +8,7 @@
 - 👋 Hi, I’m Caleb
 - 🧑🏻‍💻 I'm currently a student at DevMountain coding bootcamp.  I'm specializing in web development with plans to continue education in React, React Native, and native iOS and Android development. 
 
-I currently have an app in the Apple App Store called Abiding Above.  This is an app created for a ministry located in Memphis, TN called Abiding Above.  It included devotional content, newsletters, and audio sermons written by the founder.  
+I currently have an app in the Apple App Store called Abiding Above.  This is an app I created for a ministry located in Memphis, TN called Abiding Above.  It included devotional content, newsletters, and audio sermons written by the founder.  
 
 Check it out here: 
 
