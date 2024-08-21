@@ -1,5 +1,4 @@
-![CartoonProfilePic](https://user-images.githubusercontent.com/95727406/224575084-56b0af50-fb16-43b6-82ed-7de17563f650.png)
-
+![logo](https://github.com/user-attachments/assets/ead4f4ce-6ae2-4e7f-bee2-5d2ecf4d8a55)
 
 
 
