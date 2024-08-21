@@ -3,7 +3,7 @@
 
 
 - 👋 Hi, I’m Caleb
-- 🧑🏻‍💻 I'm a graduate of DevMountain with 3 years of experience writing code and developing applications in some way.  I have recently started my own business, CH Developments and Designs, LLC as a freelance web developer specializing in building affordable web application built using ReactJS.  I also develop smaller websites using vanilla JS, HTML, and CSS. 
+- 🧑🏻‍💻 I'm a graduate of DevMountain bootcamp with experience writing code and developing applications in some way since June of 2021.  I have recently started my own business, CH Developments and Designs, LLC as a freelance web developer specializing in building affordable web application built using ReactJS.  I can also develop smaller websites using vanilla JS, HTML, and CSS as well as writing Google Scripts to solve complicated workflow problems. 
 
 I also have some experience in native iOS development and currently have an app in the Apple App Store called Abiding Above.  This is an app I created for a ministry located in Memphis, TN called Abiding Above.  It includes devotional content, newsletters, and audio sermons written by the founder.  
 
